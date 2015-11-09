@@ -1,4 +1,4 @@
-$liste = document.getElementById("liste");
+var $liste = document.getElementById("liste");
 
 function selectionne(e) {
   // e.target correspond au <li> qui a été cliqué dans le <ul> !
