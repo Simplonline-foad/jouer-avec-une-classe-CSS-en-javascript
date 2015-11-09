@@ -23,4 +23,3 @@ function restaurer() {
 $liste.onclick = select;
 $supprimer.onclick = supprimer;
 $restaurer.onclick = restaurer;
-
